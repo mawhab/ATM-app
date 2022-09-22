@@ -1,0 +1,64 @@
+﻿  application.c
+C:\Users\knega\source\repos\ATM\ATM\server.h(9,2): error C2061: syntax error: identifier 'EN_transState_t'
+C:\Users\knega\source\repos\ATM\ATM\server.h(11,1): error C2059: syntax error: '}'
+C:\Users\knega\source\repos\ATM\ATM\server.h(31,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,18): error C2061: syntax error: identifier 'transactions_DB'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,18): error C2059: syntax error: ';'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,33): error C2059: syntax error: '['
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,56): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,56): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,67): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,50): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,50): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,61): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\application.c(7,19): error C2065: 'ST_transaction_t': undeclared identifier
+C:\Users\knega\source\repos\ATM\ATM\application.c(7,19): error C2146: syntax error: missing ';' before identifier 'transaction'
+C:\Users\knega\source\repos\ATM\ATM\application.c(7,30): error C2065: 'transaction': undeclared identifier
+C:\Users\knega\source\repos\ATM\ATM\application.c(9,40): warning C4305: '=': truncation from '__int64' to 'float'
+C:\Users\knega\source\repos\ATM\ATM\application.c(27,21): error C2065: 'transaction': undeclared identifier
+C:\Users\knega\source\repos\ATM\ATM\application.c(27,22): error C2224: left of '.cardHolderData' must have struct/union type
+C:\Users\knega\source\repos\ATM\ATM\application.c(28,21): error C2065: 'transaction': undeclared identifier
+C:\Users\knega\source\repos\ATM\ATM\application.c(28,22): error C2224: left of '.terminalData' must have struct/union type
+C:\Users\knega\source\repos\ATM\ATM\application.c(29,14): warning C4013: 'recieveTransactionData' undefined; assuming extern returning int
+C:\Users\knega\source\repos\ATM\ATM\application.c(29,49): error C2065: 'transaction': undeclared identifier
+  main.c
+C:\Users\knega\source\repos\ATM\ATM\server.h(9,2): error C2061: syntax error: identifier 'EN_transState_t'
+C:\Users\knega\source\repos\ATM\ATM\server.h(11,1): error C2059: syntax error: '}'
+C:\Users\knega\source\repos\ATM\ATM\server.h(31,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,18): error C2061: syntax error: identifier 'transactions_DB'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,18): error C2059: syntax error: ';'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,33): error C2059: syntax error: '['
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,56): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,56): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,67): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,50): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,50): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,61): error C2059: syntax error: ')'
+  server.c
+C:\Users\knega\source\repos\ATM\ATM\server.h(9,2): error C2061: syntax error: identifier 'EN_transState_t'
+C:\Users\knega\source\repos\ATM\ATM\server.h(11,1): error C2059: syntax error: '}'
+C:\Users\knega\source\repos\ATM\ATM\server.h(31,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,18): error C2061: syntax error: identifier 'transactions_DB'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,18): error C2059: syntax error: ';'
+C:\Users\knega\source\repos\ATM\ATM\server.h(34,33): error C2059: syntax error: '['
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,56): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,56): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(39,67): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,50): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,50): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.h(45,61): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\server.c(3,56): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.c(3,56): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.c(3,67): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\server.c(3,69): error C2054: expected '(' to follow 'transData'
+C:\Users\knega\source\repos\ATM\ATM\server.c(37,50): error C2143: syntax error: missing ')' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.c(37,50): error C2143: syntax error: missing '{' before '*'
+C:\Users\knega\source\repos\ATM\ATM\server.c(37,61): error C2059: syntax error: ')'
+C:\Users\knega\source\repos\ATM\ATM\server.c(38,1): error C2054: expected '(' to follow 'transData'
+  terminal.c
+C:\Users\knega\source\repos\ATM\ATM\terminal.c(7,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\knega\source\repos\ATM\ATM\terminal.c(23,40): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\knega\source\repos\ATM\ATM\terminal.c(23,40): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\knega\source\repos\ATM\ATM\terminal.c(32,43): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\knega\source\repos\ATM\ATM\terminal.c(32,43): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Generating Code...
